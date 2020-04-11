@@ -34,7 +34,7 @@ Installation is easy as:
 
     pip install pycallgraph2
 
-The following examples specify graphviz as the outputter, so it's required to be installed. They will generate a file called `pycallgraph.png`.
+The following examples specify graphviz as the outputter, so it's required to be installed. They will generate a file called `pycallgraph.svg`.
 
 The command-line method of running pycallgraph is::
 
