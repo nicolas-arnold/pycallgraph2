@@ -15,8 +15,8 @@ class GraphvizOutput(Output):
 
     def __init__(self, **kwargs):
         self.tool = 'dot'
-        self.output_file = 'pycallgraph.png'
-        self.output_type = 'png'
+        self.output_file = 'pycallgraph.svg'
+        self.output_type = 'svg'
         self.font_name = 'Verdana'
         self.font_size = 7
         self.group_font_size = 10
